@@ -1,4 +1,4 @@
-<b>fifa.py
+<b>fifa.py</b>
 
 This code uses supervised machine learning to predict the overall rating of a FIFA 19 player from their attributes through optimising a linear regression model.
 
